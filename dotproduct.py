@@ -17,4 +17,6 @@ if __name__ == "__main__":
 
 #this is stash 
 
+#this is a code for dot product
+
 
